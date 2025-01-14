@@ -1,0 +1,1216 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 74653 ***
+
+language: Finnish
+
+
+
+
+UUDEN RUNOMITTAOPIN ALKEITA
+
+Kirj.
+
+Onni E. Helkiö
+
+
+
+
+
+Porvoossa,
+Werner Söderström Osakeyhtiö,
+1909.
+
+
+
+
+SISÄLLYS:
+
+Esilause.
+Rytmin puutteellisuus.
+Tahtien merkitsemisestä.
+Jambi- ja anapestisäkeemme.
+Runojalkamme.
+Teorian ja käytännön heikkouksia.
+Sijaisjaloista.
+Eri runomittoja.
+Säe, säejakso ja säkeistö.
+Soinnuista.
+Jälkilause.
+
+
+
+
+ESILAUSE.
+
+
+On omituista, että tänä uudistusten aikana runoteoriamme käsittely on
+melkein kokonaan jäänyt päiväjärjestykseen pääsemättä. Puhumattakaan
+siitä, ettei meillä vielä ole ilmestynyt eikä liene tulossakaan
+varsinaista suomalaista runousoppia, joka suunnilleenkaan vastaisi
+nykyajan vaatimuksia, ei ole edes hajanaisiakaan runoutemme teoriaa
+käsitteleviä kirjotuksia mainittavasti ollut luettavissa.
+
+Jo olisi kuitenkin aika ottaa pohdittavaksi runousoppiakin, sillä
+kipeästi meillä parannuksia tälläkin alalla tarvitaan. Varsinkin
+kaipaisi runomittakysymyksemme pian perinpohjaista selvittelyä, tässä
+kohdin kun teorian ja käytännön kehnous jo näyttää käyneen yleisemmin
+huomatuksikin. Niinpä säveltäjien ja laulunharrastajain taholla
+nykyisten runomittojemme puutteet näkyvät selvinneen ainakin sikäli,
+että useat suomenmielisetkin säveltäjämme paljoa mielemmin säveltävät
+vieraskielisiä kuin suomalaisia tekstejä ja että runoilijoitamme
+kehotetaan runomitankäytössä tekemään pikainen parannus.
+Musiikkimiestemme puolelta on etenkin maist. H. Klemetti julkisestikin
+usein huomauttanut runomittamme huonoudesta. Arvatenkin runoilijamme
+aikanaan tavalla tai toisella vastaavat tehtyihin parannusvaatimuksiin.
+Tätä yhä odotellessamme lienee meidän maallikkojenkin syytä vähältä
+osaltamme puuttua asiaan.
+
+Kun rohkenen ottaa esittääkseni muutamia hajanaisia
+runomittakysymystämme koskevia seikkoja ja parannusehdotuksia, teen
+sen siinä nimenomaisessa toivossa, ettei kysymystä enää sivutettaisi
+vaieten, vaan että pätevämmätkin runoutemme ystävät lämpenisivät sitä
+käsittelemään, jotta se saataisiin onnellisesti ratkaistuksi.
+
+
+
+
+RYTMIN PUUTTEELLISUUS.
+
+
+Rytmin puutteellisuus on meillä yleinen runomitan vika. Siksi
+onkin ymmärrettävissä, että musiikkimiehet, joiden rytmiaisti on
+kehittyneempi, meillä ennen muita ovat alkaneet vakavammin vaatia
+runomittamme uusimista. Jos runoilijoilla ja arvostelijoilla
+lieneekin ollut selvillä, ettei runokielemme nykyisenään täytä rytmin
+oikeutettuja vaatimuksia, niin he kai ovat pitäneet epäkohtaa kielemme
+luonnosta johtuvana välttämättömänä pahana.
+
+On yhä runoiltu vierasten kielten runomittoja seuraten. Kun kielemme
+ei ole luontunut niihin, on siihen tyydytty. Ei ole yritelty oman
+kielemme mukaisia runojalkoja rytmilakien mukaan järjestellä uusiksi
+runomitoiksi.
+
+Laulettavuuden kannalta voi runojamme vastaan tehdä painavimmat
+muotoa koskevat muistutukset. Mutta puolustamatonta on muutenkin se
+vallaton vapaus, jolla erilaisia runojalkoja on käytetty perusmuotojen
+sijaisjalkoina. Kun kielen laajuussuhteita ei paljoakaan ole otettu
+lukuun, vaikka niillä runokielessämme tulee olla sangen tärkeä osa,
+on rytmin oikeuksia pahastikin loukattu. Myöskään ei ole meillä
+tarpeeksi otettu varteen sitä muistettavaa seikkaa, että rytmin ei
+tule määrätä ainoastaan yksityisten, irrallisten säkeiden rakennetta,
+vaan kokonaisten säkeistöjen. Kuten musiikissa eri säkeet yhtyvät
+rytmillisiksi kokonaisuuksiksi, siten runosäkeidenkin tulee liittyä
+toisiinsa poljennon rikkoumatta.
+
+
+
+
+TAHTIEN MERKITSEMISESTÄ.
+
+
+Säkeitä jakaessa eri tahteihin eli runojalkoihin on meillä kuten
+muuallakin tavallisesti menetelty niin, että säkeen ensimäisen
+runojalan on katsottu alkavan aivan säkeen alusta. Näin on saatu
+runojalat alkamaan milloin nousulla (tesis), esim.:
+
+    Oikeutta | kansa | palvoi,
+
+milloin taas laskulla (arsis):
+
+    Nuo met|sien hur|jat sis|sit.
+
+Runojalkoja ja -mittoja on sen mukaan nimitetty laskeviksi (aleneviksi)
+tai nouseviksi (yleneviksi).
+
+Toinen, paljon paremmin suomenkielen luonnon mukainen jakotapa
+saadaan, kun otaksutaan kunkin runojalan alkavan runokorollisella
+eli nousutavulla. Säkeen ensimäisen täydellisen jalan edessä oleva
+koroton tahdin osa, milloin säe sellaisella alkaa, käsitetään
+tällöin _esitahdiksi_ eli _esijalaksi_. Tämä voi olla yksi- tai
+useampitavuinen. Esim.:
+
+    Nuo | metsien | hurjat | sissit
+
+    ovat  | tulleet | peitossa | yön.
+
+Tällainen tahdin merkitseminen on yleinen musiikissa. Rytmin
+yhtenäisyyden selventämiseksi ja muista käytöllisistä syistä on tätä
+myöskin vieraskielisissä uusissa runomittaesityksissä suositeltu
+entistä parempana siinäkin tapauksessa, että vanha merkitsemistapakin
+soveltuisi kielen korkosuhteihin. Suomenkielen luontoon tämä uusi
+merkitsemistapa sopii vanhaa paljoa paremmin, kaikki sanatkin kun ovat
+koroltaan laskevia.
+
+Säkeet voi silti katsoa poljennoltaan olevan joko laskevia, jos alkavat
+ilman esitahtia, tai nousevia, jos niiden alussa on esitahti. Säkeiden
+luonne ja vaikutus on sen mukaan jonkun verran erilainen. Tavallisesti
+sentään esitahtisetkin säkeemme saavat sanojen korkosuhteiden
+mukaisesti enemmän tai vähemmän laskevan luonteen.
+
+_Godenhjelmin_ runousoppi mainitsee myöskin esi- eli alkutahdin,
+josta se sanoo 21 §:ssä: "Aleneva säe alkaa toisinaan lyhyellä tai
+korottomalla tavuulla eli alkutahdilla (anakruusis):
+
+    "Jo | pilvet | taivahan | peitti."
+
+Tässä käsitetään siis laskevan säkeen alkavan esitahdilla. Esimerkkinä
+oleva säe katsotaan laskevaksi. Kuten yllä mainittiin, meidän
+esitahtiset säkeet ovatkin luonteeltaan tavallisesti enemmän tai
+vähemmän laskevia. On vain huomattava, ettei meillä parempia nousevia
+säkeitä olekkaan.
+
+Mainitun pykälän ensimäinen lisäys tekee esitahdin perin harvinaiseksi
+sanomalla: "Alkutahdilla varustetut säkeet voipi tavallisesti selittää
+jambilla alkaviksi jambi- tai anapestivärsyiksi (s.o. säkeiksi),
+paitsi jos runoelmassa säännöllisesti käytetään alenevaa runomittaa
+ja alkutahti on lisätty vaihtelevaisuuden vuoksi." Tämän esityksen
+mukaan siis esitahtiset trokee- ja daktylisäkeemme tavallisesti voi
+selittää jambi- ja anapestisäkeiksi. Käsittääkseni asian oikea laita
+kuitenkin on aivan päinvastainen, että jambi- ja anapestisäkeemme
+aina voi, vieläpä tuleekin selittää esitahdilla alkaviksi trokee- ja
+daktylisäkeiksi.
+
+
+
+
+JAMBI- JA ANAPESTISÄKEEMME.
+
+
+[»Päivän» 2. n:ossa 1908 esitetty pääasiallisesti samoin sanoin kuin
+tässä]
+
+Jambi- ja anapestisäkeemme sietää ottaa vähän lähemmin
+tarkastettaviksi, koska meillä niistä runo-opeissamme ja muualla yhä
+puhutaan yhtä suurina tekijöinä kuin trokeisista ja daktylisista
+säkeistäkin. Ne selitetään muodostuvan jambi- ja anapestijaloista.
+Miten on sitten näiden jalkojemme laita? Runomittamme perustuu
+pääasiallisesti korkosuhteisiin, jopa viime aikaisen käytännön mukaan
+valitettavasti paljoakaan välittämättä laajuudesta. Sekä jambissa
+(- —´) että anapestissa (- - —´) on nousutavu viimeisenä. Kielessämme
+ei kuitenkaan ole sanoja, joissa korko on nouseva, vaan se on
+säännöllisesti laskeva, pääkorko ensi tavulla. Sellainen jambinen
+tai anapestinen harvinainen erikoisuus kuin esim. Timo (kutsuessa,
+varottaessa) tai eläköön (huutaessa) ei sääntöä muuta. Korolle
+perustuvaa jambia tai anapestia ei suomalainen sana siis voi muodostaa.
+Mitenkä sitten voidaan meillä saada jambi- ja anapestisäkeitä?
+Yksitavuisten sanojen avulla voi sellaisiakin muodostaa, joskin ne
+runoudessamme ovat perin harvinaisia. Jotta säkeitä näet voisi katsoa
+jambi- ja anapestisäkeiksi, pitäisi niissä useimpien nousujen lopussa
+olla sanankin loppu. Esimerkkinä tällaisista jambisäkeistä olkoon
+seuraava:
+
+        Mut yö | ei lunt', | ei un|ta nää.
+
+Jambi-anapestista mittaa on:
+
+        Ja päiv' | on kir|kas ja yö | on poiss'.
+
+Joka ottaa etsiäkseen runoudestamme säkeitä, joita syystä voi sanoa
+jambisiksi tai anapestisiksi, huomaa ettei niitä ole kuin sangen vähän.
+Jos kielessämme olisi runsaasti yksitavuisia sanoja, olisi asianlaita
+vähän toinen, mutta niitäkinhän on verraten niukasti. Niinpä jambiset
+ja anapestiset säkeemme eivät vastaakkaan nimeään. Ne eivät ole
+muita kuin esitahdilla alkavia trokeisia ja daktylisia. Katsotaanpa
+"jambista" säettä
+
+    Jos rui|kutel|la voi|sin!
+
+Huomaamme että tällainen tähän asti käytetty jalkoihin-jako tuntuu
+luonnottomalta. Säe onkin itse asiassa esitahtinen trokeinen. Sen
+mukaan se on jaettava runojalkoihinkin:
+
+        Jos | ruiku|tella | voisin.
+
+Samoin "anapestinen" säe:
+
+        Hepo jou|tuen juok|si sen kiin|ni
+
+on oikeastaan esitahtinen daktylinen:
+
+Hepo | joutuen | juoksi sen | kiinni.
+
+Ne harvat varsinaisemmin jambiset ja anapestiset säkeet, joista
+ylempänä oli puhe, sopii yhtä hyvin pitää esitahdilla alkavina trokee-
+ja daktylisäkeinä kuin jambisina ja anapestisina, siis esim.:
+
+    Mut | yö ei | lunt', ei | unta | nää.
+
+    Ja | päiv' on | kirkas ja | yö on | poiss'.
+
+Samalla kuin onkin muistettava, ettei runomittaa yleensä sovi muodostaa
+pelkistä sanaisjaloista, samalla on myöskin huomattava, että sellainen
+sanan- ja jalanjako, joka muuttaa runomitan aivan toiseksi kuin sen
+pitäisi olla, voi vain poikkeustapauksessa olla oikeutettu jotakin eri
+tarketusta varten, mutta ei suinkaan yleensä kaikissa säkeissä, kuten
+meidän n.s. jambi- ja anapestimitoissa on laita.
+
+Edellä esitetystä käynee selville, että on täysi syy lakata erikseen
+puhumasta meidän jambi- ja anapestisäkeistä, koska ne oikeastaan ovat
+vain esitahtisia trokeisia ja daktylisia. Runomittamme käsittelylle on
+eduksi, että jätetään pois harhaanjohtavat nimet.
+
+Mitä muuten vielä esitahtisiin säkeihimme tulee, on huomattava, että
+ne ovat meille tulleet verraten myöhään. Vanhimmassa kansanrunoudessa
+emme niitä tapaa. Kielemme luonnon mukaisempia ovatkin esitahdittomat
+säkeet. Esitahdilla alkavat ovat vierasluontoisempia, kuten ovat
+vierasperäisiäkin, muilta lainattuja.
+
+
+
+
+RUNOJALKAMME.
+
+
+[Julkaistu yleensä samallaisena »Ajan» 3. n:ossa 1908.]
+
+Kuten meillä ei ole jambisia eikä anapestisia, samoin ei myöskään
+voi olla muitakaan varsinaisemmin nousevia säkeitä kuin esitahtisia,
+laskevista runojaloista kokoonpantuja. Runojalkojemme luvusta on siis
+täysi syy jättää pois nousevat jalat.
+
+Laskevia runojalkoja meillä sitävastoin on sangen runsaasti. Ottaen
+näet huomioon sanojen sekä koron että laajuuden saamme paljon uusia
+runojalkoja, joita ei meillä tähän asti ole hyväksytty, kun on
+vierasten kielten tavallisimmat jalat ja mitat pidetty meilläkin
+ainoina kelvollisina.
+
+Järjestän runojalkamme tavulukunsa mukaan kolmeen ryhmään. (Viite [1]
+jälj.) Kunkin ryhmän jalat koetan esittää koron ja laajuuden vaatimassa
+arvojärjestyksessään, mikäli siten järjestyksen selvyyden kärsimättä
+käy laatuun. Kun kaikissa runojaloissamme runokorko eli nousu on ensi
+tavulla, muiden tavujen ollessa runokorottomina, ei korkoa tarvitse
+erittäin merkitä. Sopiikin sen vuoksi tavujen laajuutta osottaa
+kreikkalaisten ja roomalaisten käyttämillä laajuusmerkeillä (— ja -),
+joilla tähän asti on etupäässä merkitty runotyylimme korkosuhteita.
+
+Korolla tarkotan tässä runokorkoa, joka on sekä sana- että lausekorosta
+osaksi riippumaton. Laajuusmerkeillä taas merkitsen varsinaisesti
+tavujen "luonnollista" pituutta ja lyhyyttä. Paitsi pitkiä ja lyhyitä
+on meillä myöskin luonnoltaan puolipitkiä eli keskiarvoisia tavuja.
+_Jänneksen_ mukaan keskiarvoinen on jokainen lyhytdiftonginen tai
+suljettu lyhytvokaalinen tavu. Puolipitkä tavu on runokorollisena
+yleensä pitkän arvoinen, varsinkin jos sillä samalla on sanan pääkorko.
+Runokoroton puolipitkä tavu käy yleensä lyhyestä, etenkin milloin sillä
+ei ole sanan pääkorkoa. Puolipitkä voi kuitenkin vastoin edellisiä
+sääntöjäkin käydä milloin pitkästä, milloin lyhyestä.
+
+Puuttumatta enempää kielemme prosodiaan, luettelen nyt runojalkamme.
+Esimerkeiksi panen vain sanaisjalkoja ja mikäli mahdollista näiden
+samain sanain muotoja, jotta jalkojen vertaaminen toisiinsa olisi
+helpompi.
+
+Yksi tavu ei semmoisenaan muodosta täydellistä runojalkaa, joskin se
+muutamissa tapauksissa pidennyksen tai paussin tahi kumpaisenkin avulla
+sellaisesta voi käydä.
+
+        Kaksitavujalat eli trokeet:
+
+    Ensimäinen trokee | — - | päivä.
+    Toinen trokee | — — | päivää.
+    Kolmas trokee | - - | sana.
+    Neljäs trokee | - — | sanaa.
+
+        Koimitavujalat eli daktylit:
+
+  Ensimäinen daktyli | — - - | päivänä.
+  Toinen daktyli | — - — | päiväkään.
+  Kolmas daktyli | — — - | päivääni.
+  Neljäs daktyli | — — — | päivääkään.
+  Viides daktyli | - - - | sanana.
+  Kuudes daktyli | - - — | sanakaan.
+  Seitsemäs daktyli | - — - | sanaani.
+  Kahdeksas.daktyli | - — — | sanaakaan.
+
+        Nelitavujalat eli peonit:
+
+  Ensimäinen peoni | — - - - | päiviäni.
+  Toinen peoni | — - - — | päiviäkään.
+  Kolmas peoni | — — - - | päivääsikö.
+  Neljäs peoni | — - — - | päiviäänpä.
+  Viides peoni | — — - — | päiväänikään.
+  Kuudes peoni | — - — — | päiviäänkään.
+  Seitsemäs peoni | — — — - | päivääkäänkö.
+  Kahdeksas peoni | — — — — | päätteeseenkään.
+  Yhdeksäs peoni | - - - - | sanojani.
+  Kymmenes peoni | - - - — | sanojakaan.
+  Yhdestoista peoni | - — - - | sanaasiko.
+  Kahdestoista " . | - - — - | sanojaanpa.
+  Kolmastoista peoni | - — - — | sanaanikaan.
+  Neljästoista peoni | - - — — | sanojaankaan.
+  Viidestoista peoni | - — — - | sanaakaanko.
+  Kuudestoista peoni | - — — — | sateeseenkaan.
+
+Viisitavujalkoja meidän runoudessamme tuskin vielä on tavattavissa.
+Sellaisiakin tietysti voisi esiintyä. Niinpä niiden perusmuoto (—----,
+esim. päiviänikö) mennee yhtä hyvin tai paremminkin yhden nousutavun
+varassa kuin 16:s peoni. Ainakin sopivat parhaat viisitavujalat
+luontevammin meidän runokieleemme — meillä kun on runsaasti laskuun
+sopivia aivan lyhyitä tavuja — kuin esim. Ruotsin, jossa niitä
+kuitenkin joskus tavataan, etupäässä kahden säkeen liittymäkohdassa,
+milloin nousujen väliin jää neljä laskutavua, tai nelitavujalkojen
+sijaisina muuallakin.
+
+Nelitavujalatkin ovat taiderunoudessamme yleensä harvinaisia. Eri
+maissa toiset metrikot ovat niitä pitäneet mahdottomina tai muuten
+vastustettavina, toiset taas ovat niitä puolustaneet. Vastustuksesta
+huolimatta ne ulkomaisessa taiderunoudessa ovat päässeet yhä
+yleisempään suosioon. Kansanrunoudessa ne kaikkialla jo kauemmin ovat
+esiintyneet.
+
+Meillä on näihin asti — teorian mukaan — päästy nelitavujaloista
+hyvin vähällä. On vain sanottu: "Kreikan ja latinan runoudessa
+on nelitavuisiakin jalkoja", tai: "Kreikkalaiset puhuivat
+nelitavuisistakin runojaloista, — — mutta nykyajan runoudessa niillä
+ei ole mitään merkitystä." Aivan viime aikoina vasta on niille meillä
+yleisemmin myönnetty olemassaolon oikeus ainakin kansanrunoudessamme.
+Tässä nelitavujalkoja onkin jo ammoisina aikoina käytelty, ja
+nykyisissä kansanlauluissamme ne ovat hyvinkin tavallisia. Esimerkeiksi
+panen tähän muutamia vanhasta ja uudemmasta kansanrunoudestamme
+poimittuja, peoneja sisältäviä säkeitä. (Viite [3] jälj.):
+
+     Vaski- oli | hattu | harti|oilla.
+
+     Minua on | vyötty | miehen | vyöllä.
+
+    Aallot ne | pian sinut | pettäi|si.
+     Sitten ei | suru mua | heittäi|si.
+
+    Iso ilo | alkaa
+    nuorukaisten | kanssa
+    keskellä | hääsalin | latti|aa.
+    Niinkuin niinkuin | neitoset,
+    niinkuin niinkuin | poikaset,
+     käykäämme | lattialle | tanssi|maan!
+
+Taiderunoudessammekin nelitavujalkoja jo vähän on viljelty
+sijaisjalkoina. Esim.:
+
+    Honkain | humina ja | luonto | muu.
+
+    Yks' | voima | sydämehen | kätketty | on.
+
+    Tuima on | tuuli ja | pimeä on | taivo,
+     suuri on | ulapalla | aaltojen | raivo.
+
+Nelitavujalkamme sopivatkin erinomaisesti sekä daktylien sijaisjaloiksi
+— kun vain laajuussuhteetkin otetaan asianmukaisesti huomioon —
+että sekasäkeihin itsenäisiksi jaloiksi, vieläpä yksinkertaisia
+eri runomittoja muodostamaan, sikäli kuin yksi nousutavu pystyy
+kannattamaan kolmea laskutavua. Peoneissakaan näet, ollakseen eri
+runojalkoja, ei saa olla muuta kuin yksi nousu, vaikka kolmas tavu
+voikin saada pienen sivukoron, jalan silti muuttumatta kahdeksi
+trokeeksi.
+
+Mitä runojalkojen nimiin tulee, en katso olevan syytä lainata niitä
+semmoisinaan kreikkalaisilta. Eroavathan runojalkamme oleellisestikin
+kreikkalaisten ja roomalaisten käyttämistä, meillä kun aina on
+runokorko ensi tavulla. Nimitän niitä kaikkia selvyyden vuoksi
+tavulukunsa mukaan tai myöskin ensimäisten eli perusjalkojensa
+kreikkalaisilla nimillä, joita jälkimäisiä lyhemmyytensä takia sopii
+suosittaa, varsinkin koska ne jo — ainakin kahden ensimäisen ryhmän
+— ovat ennallaan tutut. Klassillisilta kansoilta lainattuja monia
+nimiä on vaikea muistaakin, jota vastoin minun ehdottamani muistaa
+ensi näkemältä. Nimien ja jalkakaavojen yhdistämisen toisiinsa oppii
+niinikään vähällä, koska jalkojen järjestyksen määräävät seikat on
+helppo jokaisen huomata. Muistamista helpottaa sekin, että kunkin
+ryhmän ensimäisessä ja viimeisessä jalassa ovat laajuussuhteet aivan
+päinvastaiset ja samoin aina seuraavissa jaloissa parittain keskustaa
+kohden. Luulisinkin juuri ehdottamani arvojärjestyksen olevan parhaan,
+koska tässä saman ryhmän jalkojen rytmillinen etevämmyys toistensa
+suhteen on ollut määräävänä sikäli, että joka jalkaryhmän kummankin
+puoliskon eri jalkojen — pitkä- ja lyhytnousuisten — runomitallinen
+paremmuus on koetettu ottaa huomioon.
+
+Olen siis täten merkinnyt kaikkiaan 28 eri runojalkaa, sen sijaan että
+meillä tähän asti on tunnettu ja tunnustettu pääasiallisesti vain
+4. Sävellettäväksi aiotussa runoudessa sopii vielä puolipitkillekin
+tavuille antaa oma itsenäinen arvonsa ja käyttää monellaisia
+yhdysjalkoja, joten runojalkojen luku oikeastaan edelleen lisääntyy
+moninkertaiseksi. Vaikkei kaikkia edellä esittämiänikään hyväksyttäisi
+yleisempään käytäntöön, on jo aika hyväksyä niistä ainakin niin monta,
+että kaikki kielemme sanat ulkomuotonsa estämättä saavat täyden
+oikeuden esiintyä runoudessamme, mikäli kukin puolestaan omassa
+asemassaan siihen parhaiten kelpaa.
+
+
+
+
+TEORIAN JA KÄYTÄNNÖN HEIKKOUKSIA.
+
+
+Teorian ja käytännön heikkouksia on näet sekin, että lukemattomat supi
+suomalaiset sanat tähän asti on katsottu runomittaan sopimattomiksi
+tai, milloin niitä on käytetty, niitä on sijotettu sopimattomiin
+kohtiin. Niinpä ne sanat, joiden ensi tavu on lyhyt, ovat korollisina
+ankarimpien sääntöjen mukaan olleet runokieleen mahdottomat. Kun niitä
+kuitenkin on täytynyt viljellä, ne ovat huonosti täyttäneet tehtävänsä
+niissä asemissa, joihin niitä on sovitettu. Ei tarvitse muuta kuin
+laulaa joku suomalainen laulu, melkein mikä tahansa, niin huomaa,
+kuinka luonnottomasti lyhyitä tavuja käytetään pitkien asemesta.
+Laulamme esim.:
+
+    Syttynyt on soota julma,
+    viihan liekki leimuaa,
+     puunainen on j.n.e.!
+
+Säveltäjissäkin tietysti on syytä, että täten suomalaisiinkin sanoihin
+sepitetyillä sävelmillä alennamme omaa kieltämme, mutta mahdotontahan
+yleensä on säveltää tähänastisia runojamme kielen laajuussuhteita
+pahasti loukkaamatta, jollei anna joka säkeistölle johonkin määrään eri
+sävelmää. Että tämä on epäkohta, ei voitane kieltää.
+
+Rytmin puutteellisuus on runokielemme yleinen vika, kuten jo on edellä
+mainittu. Kun meillä esim. on neljä laajuudeltaan toisistaan selvästi
+eroavaa trokeejalkaa ja niitä ilman muuta viljellään rinnan miten
+sattuu, niin on luonnollista, että rytmi on pilalla. Onhan suuri
+rytmillinen ero esim. _ilo_ ja _taatkoon_ sanojen välillä, samoinkuin
+daktylien _yleni_ ja _taivaaseen_ välillä. Ja kuitenkin niin erilaisia
+jalkoja asetetaan toistensa vastineiksi. Runoilijamme ovat siinä
+kohdin menetelleet aivan kuin olisivat vain ylimalkaisesti seuranneet
+runousopeissamme esitettyä määrittelyä: "Runomitta on nousujen ja
+laskujen säännöllinen järjestys." Jos säännöllisyydellä vaadittaisiin
+ainoastaan sitä, että nousut ja laskut vuorotellen seuraavat toisiaan,
+niin esimerkkien-laiset runojalat olisivat sikin-sokin käytettyinä
+säännön mukaan yhtä hyväksyttäviä kuin ne ovat siten "säännöllisesti"
+esiintyviä. Jos taas käsitämme säännöllisyyden niin, että saman mitan
+eri jalkojen tulee lisäksi olla suunnilleen yhtä pitkät, niin olisi
+meillä runomitan määritys, joka voisi tyydyttää moniaan muun kielen
+vaatimukset, mutta ei meidän. Onhan selvää, että suomessa, jossa korko
+ja laajuus eivät mainittavasti yhdy, pitää erikseen ottaa huomioon
+kumpikin niistä. Ei ole suinkaan rytmin kannaltakaan yhdentekevää,
+sanommeko saama vaiko samaa, tuuleman vaiko tulemaan, vaikka näiden
+jalkojen pituus onkin jotenkin sama. Kun meillä kuitenkin tällaisia on
+hyväksytty toistensa vastineina, jopa pidetään esim. neljättä trokeeta
+parempana perustrokeen sijaisena kuin kolmatta, niin voi sitä joskus
+puoltaa runojen luettavuuden kannalta, mutta kummaa ei ole, että
+säveltäjät tuskaantuvat sellaista tekstiä käsitellessään. Laulaessa
+tuntuu näet paljoa pahemmin kuin lukiessa sellainen saman jalan sekä
+nousun että laskun laajuuden muuttaminen. Koettakaamme esim. oikealla
+sävelmällä laulaa:
+
+    Syttynyt on sotaa julmaa,
+     vihaa liekki leimuaa,
+
+niin huomaamme, miten onnistumatonta itse asiassa on tällainen "rytmin
+säännöttömyyden tasaantuminen sen kautta, että eri tavut täydentävät
+toisiansa", jota runo-oppimme puoltavat.
+
+
+
+
+SIJAISJALOISTA.
+
+
+Ei kuitenkaan voi seurata laajuusperiaatettakaan äärimäisyyksiin asti,
+eikä se ole tavotettavaakaan, koska runomitta — etenkin yksinkertainen,
+samoista jaloista sepitetty siten tulisi yksitoikkoinen. Runoilijalla
+tulee aina olla vapaus käyttää sijaisjalkojakin varsinaisten asemesta.
+Tämä on hänellä yksi ja tärkeäkin keino tilapäiseen sisällön vaatimaan
+rytmillä-kuvaamiseen. Vapaus on hänellä suurempi luettavaksi aiotun
+runon sepittämisessä kuin sellaisen, jonka on tarkotus olla kaikin
+puolin musiikkimiehiäkin tyydyttävä.
+
+Tavallisessa puheessa samat tavut voivat eri asemissa olla johonkin
+määrin eri pitkät. Siten voi pitkä tavu vieläkin pidetä ja lyhyt
+entisestään lyhetä. Paitsi täten saattaa, joskaan ei niin kernaasti,
+laajuuden muutos tapahtua myöskin niin, että pitkä tavu vähän lyhenee
+ja lyhyt pitenee. Mutta tämä tavujen kimmoavaisuus ei suinkaan ulotu
+niin pitkälle, että luonnoltaan lyhyt tavu muuttuisi pitkäksi tai pitkä
+lyhyeksi, paitsi joissakin erikoistapauksissa. Puolipitkä tavu sen
+sijaan voi käydä pitkästä ja lyhyestä. Runoudessa tavujen kimmoavaisuus
+on samojen lakien alainen kuin puheessa.
+
+Tämän mukaan siis, ensin pitkän tavun sijaisista puhuakseni, sopii
+puolipitkä tavu panna vastaamaan pitkää. Puolipitkän esiintymisestä
+runomitassa on jo (ks. [1] ed.) tarkemmin sanottu.
+
+Lyhyttä tavua sitä vastoin ei sovi panna pitkän vastineeksi. (Viite [2]
+Jälj.) Sanakorollinen, etenkin pääkorollinen lyhyt nousussa kaikkein
+vähimmän soveltuu pitkän tavun sijaiseksi, koska se laulettaissa
+pitkäksi venytettynä kuuluu varsin pahalta. Tätä vastaan runoilijamme
+kuitenkin enimmän rikkovat. Lyhyen tavun asettaminen pitkän sijaan ei
+tähän asti hyväksytyissä runomitoissamme muualla niin usein ole tullut
+kysymykseenkään, sillä laskussa lyhyt (lyhyet) on ollut paikallaan ja
+sanakoroton lyhyt taas ei muuten ole varsin usein sopinut nousuun.
+Sanakorottoman lyhyen tavun venyttäminen ei tunnu niin kielikorvaa
+loukkaavalta. Lauteessamme säkeen
+
+        I|säsi majas|sa
+
+voimme huomata, että sanan toinen tavu (-sä-) pitkäksi laulettuna ei
+tunnu niin luonnottomalta kuin pääkorollinen (ma-) pitkänä. Sanan
+viimeinen koroton tavukaan (-sa) venytettynä ei toukkaa korvaa niin
+pahoin, vaikka se laulettaissa tulee kaksi kertaa niin pitkäksi kuin
+sanan ensi tavu. On myös otettava huomioon se seikka, että lyhyen tavun
+venyttäminen silloin, kun sillä tavalla syntyy kokonaan toinen, oikean
+mielikuvan ehkä pahastikin särkevä sana tai muuta epäselvyyttä, on
+vielä kiusallisempi kuin muulloin.
+
+Lyhyen tavun asettaminen pitkän sijaan voi joskus olla hyväksyttävä
+siinä tapauksessa, että sen jälkeen täydennykseksi tulee paussi, kuten
+säkeen lopussa ja isommissa jako- eli sesuurikohdissa. Esim.:
+
+    Olette, linnut, täynnä laulu|ja,
+    suloa, rakkautta, sointu|ja
+    ja keväthenke|ä — ne| kaikki,| ne
+     myös lahjoittakaa Suomen lapsil|le.
+
+(Loppusoinnuksi lyhyt tavu ei kernaasti sovi. Siitä enemmän soinnuista
+puhuessani.)
+
+Tällainen paussi saattaa tietysti esiintyä vain kahden sanan välissä,
+mutta ei sanan sisässä. Yleensäkin runojalan tavujen varsinaisen
+laajuuden samoinkuin koronkin muuttaminen paremmin on sallittava,
+milloin se tapahtuu — samassa jalassa — kahden sanan, etenkin
+yksitavuisen, rajalla kuin useampitavuisen sanan sisässä. Säkeistä
+
+        Tuikah|tavat, | sammuvat
+
+    ja
+
+        Lämmin|tä ei | niistä lähde
+
+jälkimäinen on rytmiltään parempi.
+
+Voiko näillä ehdoilla ja myönnetyillä vapauksilla kaikissa mitoissa
+aina välttää lyhyen tavun panemista pitkän sijaiseksi, meillä kun on
+lyhyitä tavuja, pääkorollisiakin, niin runsaasti? Ken on yrittänyt
+sepittää ensi- eli perustrokeista tai -daktylista mittaa, on huomannut,
+että on melkein mahdotonta nousuun aina saada sijotetuksi pitkä
+tai pitkän arvoinen tavu. Jos juuri voikin kielemme siten pukea
+pakkopaitaan, niin jää silloin tavallisesti sanomatta ainakin osa
+siitä, mitä oli sanottava, ja sisällön puutteellisuus on toki pahempi
+kuin muodon.
+
+Meillä on onneksi vielä keino saada pitkäin tavujen vastineita,
+tavallisesti paljoa puollettavampi kuin lyhyen käyttäminen sellaisena.
+Tarkotan sitä, että yksi pitkä tavu korvataan kahdella lyhyellä.
+Muinaiskreikkalaiset ja roomalaiset jo käyttivät tätä tapaa, joten
+se ei ole mikään uusi keksintö. Eikä se olisi vaikea keksittäväksi
+nykyäänkään, koska on huomattu kahden lyhyen tavun pituudeltaan yleensä
+paljon paremmin vastaavan yhtä pitkää kuin yhden lyhyen. Kuitenkaan
+tätä nykyiskansain runoudessa ei paljoa ole otettu seurattavaksi, kumma
+kyllä. Esimerkiksi ruotsalaisessa runoudessa tätä muinaisten kansain
+tapaa on jotenkin tarkoin kartettu, jota vastoin se Tanskan ja Saksan
+runoudessa ei ole niin harvinainen.
+
+Meidän runokielessä on tapa osaksi saanut jalansijaa.
+Kansanrunoudessamme se jo varhain on esiintynyt. Säkeiden ensi jalkana
+tapaamme Kalevalassa trokeen sijaisena silloin tällöin viidennen
+daktylin. Esim.
+
+    Vesi on | vanhin voitehista.
+
+Salliipa kansanrunous tässä kohdin suurempaakin vapautta, joten
+pitempiä daktyleja ja peonejakin, pitkiäkin tavuja sisältäviä,
+tavataan trokeiden sijaisina, samoinkuin perusdaktylien sijaisina on
+pitkätavuisiakin peoneja.
+
+Näin paljon pitemmät sijaisjalat eivät ole nykyisessä taiderunoudessa
+hyväksyttävät, vaikka niitä siinä käytetään. Sitä vastoin
+seuraavien-laiset säkeet hyvin sopivat trokeiseen mittaan:
+
+    Onko | vapaus vaiko orjuus.
+
+Useimmat käsittänevät sanan [vapaus] kolmitavuiseksi, vaikka
+äänneyhtymää _au_ tässä voi pitää diftonginakin.
+
+    Ah niin, kirkas | Jumalalan|poika.
+
+Edellä on jo esitetty sekä hyviä että huonompia esimerkkejä sellaisista
+säkeistä, joissa daktylien sijaisjalkoina on peoneja. (Viite [3] ed.)
+
+Hyviä tällaiset varsinaisia monitavuisemmat sijaisjalat ovat, kuten
+sanottu, jos niissä kaksi vierekkäistä lyhyttä tavua on vastaamassa
+yhtä varsinaisen jalan pitkää, — tietysti tässä kuten muualla
+edellyttäen, ettei korkoa, runomittamme tärkeintä tekijää, vastaan
+rikota.
+
+Mainitsin, että esim. tanskan- ja saksankielisessä runoudessa tällaisia
+sijaisjalkoja viljellään. Kun otamme huomioon mainittujen kielten
+ja omamme erilaisuuden, myönnämme, että meidän kielemme on paljoa
+sopivampi näiden sijaisjalkojen käyttöön kuin mainitut germaanilaiset.
+Ovathan meidän lyhyet tavut enimmäkseen lyhyemmät kuin germaanilaisten
+kielten, nämä kun usein — konsonanttipäätteisinä — vastaavat paremmin
+meidän puolipitkiä; pitkät taas ovat yleensä yhtä pitkät kuin
+meidänkin. Kun siis esim. _Goethe_ voi panna sellaisen muodon kuin
+_himmlischen_ perustrokeen sijaan, pitäisi meidän erinomaisesti voida
+hyväksyä perustrokeen sijaiseksi viides daktyli.
+
+Jos vertaa toisiinsa muotoja: halvan (murteell. hal(a)van) ja halavan,
+taloon ja talohon, halvaksi (hal(a)vaksi) ja halavaksi j.n.e.,
+niin huomaa kaksi lyhyttä laajuudeltaan hyvin sopivan yhden pitkän
+vastineeksi.
+
+Täten voisi kaksi lyhyttä panna pitkän sijaan sekä nousuun että
+laskuun, ei kuitenkaan samaan jalkaan useamman kuin yhden pitkän
+sijaiseksi, jottei jalan varsinainen luonne liiaksi muuttuisi.
+Peoneissa tuskin ollenkaan on sopivaa tätä tapaa seurata,
+viisitavujalat kun tuntunevat liian oudoilta, ainakin toistaiseksi.
+
+Tällaiset sijaisjalat ovat vielä sopivat estämään yksitoikkoisuutta,
+joka muuten voi haitata joitakin, etupäässä samoista jaloista
+kokoonpantuja mittoja, joten ne siltäkin kannalta ovat suositettavia.
+Kuten muutkin sijaisjalat ne ovat mahdollisuuden mukaan otettavat
+rytmimaalauksen palvelukseen.
+
+Vielä on näkökohta, joka puhuu näiden sijaisjalkain puolesta.
+Suomenkieli on, kuten luonnollista, vielä pitkäveteistä verrattuna
+vanhempiin sivistyskieliin. Käyttämällä edellä esitettyä menettelytapaa
+runokielemme tulisi tiiviimmäksi, täyteläisemmäksi, jota seikkaa ei
+ole aivan vähäksi arvattava. On suotavampaa, että runoratsumme ottaa
+silloin tällöin pari lyhyttä juoksuaskelta, kuin että se kompastumalla
+pidentää liian lyhyttä askelta tahtia tyydyttäväksi. Mikä etu
+tästä olisi runoja suomennettaessakin, on ilmeistä. Sitenhän voisi
+alkuperäisellä runomitalla ja lyhyydellä tyhjentävämmin suomentaa kuin
+nykyään, jolloin runokielemme on tarpeettomasti pidennettyä, sanojen
+oikea aikamitta (tempo) pitkien tavujen sijaisina olevissa lyhyissä
+hidastettuna.
+
+Säveltäjille tällaiset varsinaisia jalkoja monitavuisemmat sijaiset
+eivät tuottane vaikeutta. Kaikissa tapauksissa ne yleensä ovat laulun
+lausutukseenkin nähden paremmat kuin nykyään käytännössä olevat, joissa
+yksi lyhyt tavu vastaa pitkää.
+
+Mitä tulee lyhyitten tavujen sijaistavuihin, kelpaavat sellaisiksi
+puolipitkät, kuten ennen jo on sanottu.
+
+Pitkä tavu sitävastoin ei kernaasti sovi lyhyttä korvaamaan. Varsinkaan
+sellaista tavua, jossa on pitkä vokaali, ei saisi lyhyen sijaan
+asettaa. Helpommin sujuu — laulaessakin — lyhyen arvoisena pitkän
+diftongin, varsinkin i-päätteisen, sisältävä tavu.
+
+Koska yksi pitkä tavu pituudeltaan vastaa kahta lyhyttä, saattaa kahden
+vierekkäin olevan lyhyen asemesta kolmi- ja nelitavujaloissa käyttää
+yhtä pitkää, niinkuin yleisesti on tehtykin kolmitavujalkojen laskussa
+sekä vanhain että nykyiskansain runoudessa.
+
+Samassa jalassa ei kernaasti käy tekeminen yhtä useampia laajuuden
+muutoksia eikä samassa säkeessäkään kuin vain harvoissa — ei vierekkäin
+olevissa — jaloissa. Poikkeuksia voi esiintyä, mikäli mitan perusrytmi
+ei niistä sanottavasti kärsi tai milloin rytmimaalaus niitä oikeuttaa.
+Rytmin varsinainen luonne saakoonkin yleensä olla määräämässä, kuinka
+usein tilapäiset poikkeukset ovat luvallisia. Tässä on sanojen
+väliset paussit y.m. poljentoon vaikuttavat seikat otettava huomioon
+asianhaarain mukaan.
+
+
+
+
+ERI RUNOMITTOJA.
+
+
+Eri runomittoja saamme esittämäni mukaan kolme päälajia: kaksitavu-
+eli trokeemittaa, kolmitavu- eli daktylimittaa ja nelitavu- eli
+peonimittaa. Nämä jakaantuvat eri jalkojen mukaisesti alalajeihin.
+Meillä säkeet ovat jaloiltaan siksi kirjavat, että mallikelpoisia
+alalajeja harvoin tapaa edes perusmittojen esimerkeiksi, vaikka kaikki
+säkeemme oikeastaan ovat olevinaan perusmittoja. Olen niiden joukosta
+kuitenkin löytänyt muutamia esitahdittomia ja esitahtisia, jotka
+kelpaavat valaisemaan eri runomittojemme alalajeja.
+
+
+TROKEEMITTOJA.
+
+Ensi- eli perustrokeinen säe:
+
+    Tuos' on | lampi | lahti|nensa.
+
+Toistrokeista mittaa on:
+
+    Pylväät | ryskää, | räystäät | särkyy.
+
+Kolmastrokeinen säe on esim.:
+
+    Vial|linen | veri.
+
+Neljästrokeinen säe olisi esim. seuraava:
+
+    Taas | herää, | herää | eloon | jo.
+
+
+DAKTYLIMITTOJA.
+
+Ensi- l. perusdaktylinen säe:
+
+    Sortuvi | niin kuni | juureton puu.
+
+Toisdaktylinen säe on seuraava:
+
+    Niin | musta, niin | synkkä yö | syksyinen | lie.
+
+Kolmasdaktylista mittaa:
+
+    Sua | kutsuu se: | jälleen se voita, jos voit.
+
+Viidesdaktylista mittaa olisi esim. seuraava säe:
+
+    Se oli | ihana | elämän | kevät. J.n.e.
+
+PEONIMITTOJA.
+
+Ensi- l. peruspeonista mittaa olisi esim. seuraava:
+
+    Tätä myrskyä ja | viuhinata, | taistelua | tuimaa.
+
+Yhdeksäspeoninen säe:
+
+    Minä olin | kivellä ja | kivi oli | sileä.
+    J.n.e.
+
+Näitä kolmea päälajia ja kutakin niiden alalajia sopii nimittää
+_yksinkertaisiksi mitoiksi_, jos niissä ei ole muuhun pääryhmään
+kuuluvia jalkoja muualla kuin silloin tällöin varsinaisten jalkojen
+sijaisina ja säkeiden liitekohdassa. Jos taas säkeessä on muun,
+tavallisimmin viereisen runojalkaryhmän jalkoja enemmän, itsenäisinä
+jalkoina, niin se on _yhdistettyä_ eli sekamittaa.
+
+Olen edellä esittänyt kaksi-, kolmi- ja nelitavujalat, jotka hyvinkin
+voivat runoudessamme esiintyä, vieläpä muodostaa eri mittoja. Kun
+kuitenkin perusmitat, joissa korko- ja laajuussuhteet ovat niin
+sanoakseni yhteistoiminnassa, toinen toistaan tukemassa, ovat
+rytmiltään voimakkaimpia, on luonnollista, että juuri näitä etupäässä
+viljellään. Muut harvoin ovat suositeltavia yhtenäiseksi, esim. koko
+runoa muodostavaksi mitaksi. Mutta ettei meidän kielemme mukaista ole
+viljellä ainoastaan perusmittoja, siitä olen jo myöskin puhunut. Eikä
+muidenkaan runojalkojen ja -mittojen käyttäminen ole mikään rytmillinen
+rikos, päinvastoin omansa elähyttämään poljentoa, kunhan ne vain
+osataan asettaa sopiviin kohtiin.
+
+Koska jo olen käsitellyt seikkoja, jotka sijaisjalkoja valitessa
+mielestäni olisivat huomioon otettavat, en enää erittäin puhu siitä
+miten luulisin perusmittojemme rytmin saatavan nykyistä paremmaksi. Sen
+sijaan on vielä sanottava muutamia sanoja sekamitoista.
+
+Voimme jakaa sekamitat kahteen päälajiin: sellaisiin, joissa toisen
+jalkaryhmän jalkoja on eri säkeissä kuinka monta ja missä kohdin
+kulloinkin, ja sellaisiin, joissa on vain määrätty luku niitä ja ne
+aina määrätyssä säkeenkohdassa. Edellistä voisimme nimittää _vapaaksi_,
+jälkimäistä _sidotuksi sekamitaksi_.
+
+Vapaa sekamitta on paljoa helpporakenteisempi, ollen myöskin varsin
+sopiva rytmimaalaukseen. Se onkin hyvin yleinen meilläkin. Esim.:
+
+    On | poissa | Kustavi | suuri —
+    hepo | juoksee | haltia|ton —
+    ja | puhtahan | uskon | muuri
+    hänen | kanssaan | murtunut | on.
+
+Ettei tämä ole sidottua sekamittaa, näemme muista värsyistä, esim.
+seuraavasta, jossa itsenäiset trokeet ovat toisissa säkeenkohdissa:
+
+    Eräs | urhosa | poika | Suomen
+    on maassa | haavois|saan;
+    ei | koittane | uusi | huomen
+     tuon | silmähän | milloin|kaan.
+
+Kuten näistä esimerkeistä näkyy, voi vapaissa sekasäkeissä olla milloin
+yksi-, milloin useampitavuinen esitahti, olematta pituudeltaan toisia
+vastaava. Saattaapa vapaus näissä mennä vieläkin pitemmälle, joten
+esitahti jää toisissa säkeissä kokonaan pois, toisissa taas on yksi-
+tai useampitavuinen esitahti.
+
+Yhtä suositeltava kuin nykyään suosittu ei vapaa sekamitta kuitenkaan
+ole, ainakaan säveltäjän kannalta katsottuna. Varsinaisessa
+laulurunoudessa näyttäisikin olevan syytä tyytyä etupäässä
+vanhempaan sekamitan lajiin, sidottuun sekamittaan, joka kukoisti
+jo muinaiskreikkalaisten ja roomalaisten runoudessa ja jota heidän
+esimerkkiään seuraten nykyiskansatkin ovat runsaasti viljelleet. Tämä
+laji on sävellettäväksi edellistä paljon sopivampi, kun kaikissa
+säkeistöissä vastaavat kohdat ovat todella toisiansa vastaavat,
+samallaiset. Sidottuja sekamittoja olivat Sapphon, Asklepiadeen
+ja Alkaioksen säkeet ja säkeistöt ynnä monta muuta kaksi- ja
+kolmitavujaloista muodostettua säe- ja säkeistölajia. Ne olivat
+sangen vaihtelevia säännöllisestä rakenteestaan huolimatta. Niiden
+poljento oli niin soitannollinen ja täsmällinen ja säkeistöjen muoto
+poljennolla niin määrätty, että nykyiskansain runojen tavalliset
+kaunistuskeinot, eri sointulajit, olivat tarpeettomat. Klassillisessa
+runoudessa ei käytettykään alku- eikä loppusointuakaan kuin joskus
+aivan satunnaisesti.
+
+Vanhain kansain esimerkkien mukaisia uusiakin sidottuja sekasäkeistöjä
+on monellaisia, myöskin loppusointuisia. Esimerkkinä sidotusta
+sekamitasta mainittakoon Oksasen "Koskenlaskijan morsiamet", jonka ensi
+värsy kuuluu:
+
+    "El', | armas Annani, | vaale|ne,
+    jos | Pyörtäjä|koski | pauhaa;
+    sen | voimaa | en tosin | vallit|se,
+    ei | löydä se | koskaan | rauhaa,
+    mut | kellä sen | kalliot | tiedoss' | on,
+    niin | sille se | nöyr' on ja | voima|ton."
+
+Saman kaavan mukaan menee koko runo. On nautinto lukea näin rytmikästä
+runoa, jossa laajuus on siihen määrään otettu huomioon, ettei yksikään
+nousutavu ole lyhyt, paitsi säkeiden lopputavuina olevista muutamat
+harvat. Nämätkään eivät riko rytmiä, koska jokaisen jälkeen on selvä
+paussi. (Kts. [2] ed.). Laskutavujen laajuus on myöskin yleensä
+moitteeton. Korkoa sen sijaan on joissakin paikoin loukattu.
+
+Näytteeksi siitä, millä vapaudella meillä nykyään sekasäkeiden
+erilaisia jalkoja liitetään vierekkäin, pantakoon tähän joitakin
+säkeitä:
+
+    On | louhikko harmaata | kive|ä.
+
+    Yks | oli, | yksi, mun | kohta|loni.
+
+    Terve, | taistelo | tasa|pää.
+
+Kuten huomaa näistäkin esimerkeistä, eivät parhaatkaan nykyiset
+runoilijamme ole tarkkoja rytmin suhteen. En tiedä, millä pätevillä
+syillä tällaista vapautta puolustetaan tai voidaan puolustaa. Kun
+ylimalkaan kaikissa säkeissä pitemmät jalat etupäässä määräävät
+tempon silloinkin, kun niitä on vain harvoja, täytyy esimerkkeinä
+olevien tapaisissa säkeissä pitkänousuistenkin trokeiden oikeata
+tempoa lukiessa vähän hidastuttaa. Että lyhytnousuiset, jotka
+yksinkertaisissakin säkeissä usein tuntuvat pitkänousuisten
+rinnalla liian lyhyiltä tai muuten rytmiä liiaksi muuttavilta,
+esimerkkisäkeidenlaisissa vielä huonommin täyttävät paikkansa, on
+selvä. Vieläkin kehnommin sopivat lyhytnousuiset trokeet sellaiseen
+sekasäkeeseen, jossa on sekä kaksi- ja kolmi- että nelitavujalkoja,
+esim.:
+
+    Sen minä | sanon sulle | neitoni | rakas,
+          että | elä ole | sure|vainen.
+
+Esimerkin viimeisen edellinen jalka on tässä yhteydessä aivan liian
+lyhyt. Jos viimeisen sanan sijalle panisimme _itkeväinen_, olisi rytmin
+kompastus pienempi, mutta vasta sana sellainen kuin _kaipaavainen_
+soveltuu rytmiltään tähän säkeeseen.
+
+Vapaiden sekamittojen luontoisia ovat tähän asti yleensä olleet
+yksinkertaisetkin runomittamme, niissä kun on sekaisin hyvinkin
+erilaisia saman jalkaryhmän jalkoja, jotka eivät rytmiltään sovi
+varsinaisten sijaisiksi. Tällaisten vapaiden _sekatrokeisten,
+-daktylisten_ ja _-peonisten_ mittojen sijaan olisi etenkin
+varsinaisten laulurunojemme rytmin parantamiseksi saatava _sidottuja_,
+joten siis samankin ryhmän erilaiset jalat pantaisiin vastaaviin
+määrättyihin kohtiinsa. Minkälaiset runojalat ja missä järjestyksessä
+täten sopivat kunkinkertaiseksi runomitaksi, sen määräävät runon
+sisällön mukaiset poljennolliset näkökohdat, joihin musiikin
+rytmiteoriakin osaltaan luo valaistusta, asettaen omat vaatimuksensa.
+
+
+
+
+SÄE, SÄEJAKSO JA SÄKEISTÖ.
+
+
+[Nimet samansuuntaisesti esitetty »Virittäjän» 5. n:ossa 1908.]
+
+_Säettä_ eli _runoriviä_ nimitetään myöskin _värsyksi_ (latin. versus).
+Tavallisesti meillä värsy sanalla kuitenkin tarkotetaan säkeistöä.
+Lieneekin selvintä käyttää sitä vain siinä merkityksessä, joka kerran
+on niin yleistynyt.
+
+Säkeistöä muutamat sanovat _säejaksoksi_. Tämä nimitys sopii minusta
+paremmin merkitsemään kahta tai useampaa toisiinsa läheisesti liittyvää
+säettä, jotka yhteensä muodostavat säkeistön alaosan. Tällä käsitteellä
+ei vielä ole omaa vakaantunutta nimeään. Säejakso sopii siksi, se
+kun hyvin vastaa käsitteen vieraskielistäkin nimeä _perioodi_.
+Säejaksoja voi säkeistössä olla kaksi tai useampia, sekä _pää- että
+sivusäejaksoja_.
+
+Täten on Oksasen "Eräs nälkätalven kuvia" nimisessä runossa kolme
+_säkeistöä_ eli _värsyä_ (stroofia). Kukin niistä sisältää kaksi
+nelisäkeistä pääsäejaksoa, joista kumpikin jakaantuu kahteen
+sivujaksoon (viite [4] jälj.):
+
+       Oli kolkko; mä kangasta kuljin,
+        lumi singoten silmihin lyö; |
+       jop' on päiväkin maillensa mennyt,
+        pian joutuvi jouluinen yö. — ||
+       Kuka tuo, joka hoippuvi tuolla
+        maantietä mun eelläni päin? |
+       Koto kaukana lienevi sillä,
+        joka matkall' on tuiskussa näin! |||
+
+Säkeen lopussa on säännöllisesti pienempi tai suurempi pysähdys,
+jota nimitän _säkeeneroksi_. Säe saattaa kuitenkin joskus liittyä
+seuraavaan niin läheisesti, ettei niiden välillä ole mitään varsinaista
+pysähdystä. Tällaista säkeiden yhtymistä (enjambement) kutsun
+_säkeensito_ nimellä. Esim.:
+
+        Jo lempeäll' illalla poski (s-sito)
+         impeni kelmenee.
+
+Säkeeneron rinnalla on muutamia ulkonaisempiakin keinoja, joiden avulla
+säkeen loppu selvemmin esiintyy. Sellaisia ovat säkeen viimeisen jalan
+vaillinaisuus ja loppusointu.
+
+Kaikissa säkeissä ei joka runojalka ole täydellinen, vaan saattaa
+niissä myöskin olla vajanaisia jalkoja, joista puuttuu joko nousu tai
+lasku. Tätä jalan vaillinaisuutta (katalex) nimitän _runojalanvajaksi_.
+Sellainen vajanainen jalka, jossa ei ole nousutavua ollenkaan, on
+esijalka l. -tahti. Säkeen lopussa taas on usein vajajalka, jossa ei
+ole muuta kuin nousutavu. Vielä voi joskus säkeen sisälläkin olla
+tällainen vajajalka. Sekä säkeen sisällä että lopussa olevan vajajalan
+muodostaa siis yksi ainoa, nousussa oleva tavu. Säe, jossa on jalanvaja
+sekä keskellä että lopussa, on esim. pentametri:
+
+    Sinne mun kultani | jäi, | sinne mun
+             ystävän' | myös.
+
+Voidakseen rytmiltään sopia säkeeseen saa vajajalan nousutavu lukiessa
+hidastetun tempon tai jälkeensä paussin, tahi yhtyvät nämä molemmat
+rytmin täydentäjät.
+
+Säe, jonka kaikki jalat ovat täydelliset, on _täysijalkainen_
+(akatalektinen). Jos säkeessä on vajajalkoja, on se _vajajalkainen_
+(katalektinen). Näillä nimillä (akatalektinen ja katalektinen)
+tarkotetaan tavallisesti säkeen lopussa olevaa vajaa.
+
+Näin säkeen alku ja loppu voi olla vajajalkainen, jos katsotaan
+irtosäettä. Mutta kun säkeet yhtyvät toisiinsa rytmilliseksi
+kokonaisuudeksi, vajanainen loppujalka voi saada täytteensä seuraavan
+säkeen esijalasta, esim.:
+
+    Kuin Väinämö nuori sä lasket | vain
+     päin | unten ja toivojen saarta.
+
+Säkeiden liitekohdissa varsinainen rytmi usein muuttuu, runojalkojen
+joko lyhetessä tai pidetessä. Joskaan se näissä kohdin ei ole niin
+loukkaavaa kuin säkeen sisällä, koska säkeen muutenkin enimmäkseen
+tulee esiintyä vähän muista erottuvana, on kuitenkin katsottava, ettei
+säkeen liittäminen toiseen liiaksi koettele rytmin kimmoavaisuutta.
+
+Kuten säkeen jälkeen tavallisesti on pysähdys, säkeenero, niin
+säejaksonkin jälkeen on vielä yleisemmin pysähdys, edellistä suurempi:
+_säejaksonero_. Harvoin esiintyy _säejaksonsito_, esim.:
+
+    Kuusten alla seisoo suojus,
+    sepä kattotorvestaan (sj-sito)
+    sukkelasti suitsuttavi
+    säkeniä ilmahan.
+
+_Säkeistönero_ on säejaksoneroakin sekä yleisempi että suurempi
+pysähdys. _Säkeistönsitokin_ on joskus paikallaan, joskin se on
+vielä harvinaisempi kuin säejaksonsito. Sillä pitääkin olla pätevät
+perusteensa. Esimerkki säkeistönsidosta — muista sidoista tässä
+välittämättä:
+
+    Jos tuikutella voisin
+    mä kielin sataisin
+    tai kiurusena öisin
+     kohoova pilvihin, (säk-sidos)
+
+    niin aina kiitteleisin
+    suloista Suomea,
+    ja Jumalalle veisin
+     ma huokauksensa.
+
+Tämäkään ei ole aivan hyväksyttävä säkeistönsito, koska esiintyy heti
+runon alussa, tässä kun säkeistöjen muoto ei vielä ole selvinnyt runoa
+kuulevan tajunnalle, joskin sitä näkevän. Vasta kun tällainen sito on
+säännön poikkeuksena ja muuten oikeutettu, saattaa sillä olla hyvä,
+voimakaskin vaikutus.
+
+Säkeistöt voivat tietysti rakenteeltaan olla hyvin erilaiset.
+Lähemmin puuttumatta niihin teen vain yhden yleisen huomautuksen. Kun
+säkeistön tarkotus on muodostaa muista erottuva kokonaisuus, tulee sen
+muodoltaankin olla sellainen, että sen runoa kuulevakin helposti siksi
+huomaa. Hyvin tavallisia kuitenkin ovat sellaiset säkeistöt, jotka yhtä
+hyvin voisi käsittää kahdeksi tai useammaksi. Niinpä edellä esitetty
+Oksasen värsy[4] kuulijasta hyvinkin saattaa pääsäejaksojen mukaan
+tuntua kahdelta eri värsyltä.
+
+Runosepolla on kyllä useita eri keinoja voidakseen sepittää säkeistöt
+kiinteämmät, jos hän vain kiinnittää huomionsa tähän kylläkin tärkeään
+seikkaan.
+
+Milloin säkeistöt ovat olevinaan toisiaan muodoltaan vastaavia, on
+vastaavaisuutta mielestäni vaadittava nykyistä paljoa tarkemmin,
+ainakin mitä varsinaiseen laulurunouteen tulee. Lukurunoja sepittäessä
+voi kyllä käyttää monellaisia vapaampia runomittoja ja säkeistömuotoja.
+Kun säkeistöt eivät korko- ja laajuussuhteiltaan ole toisiaan
+vastaavia, ei säveltäjienkään sovi niitä sellaisina käsitellä.
+
+
+
+
+SOINNUISTA.
+
+
+Soinnuista on meillä _alkusointu_ (allitteratsioni) vanhin ja
+omaperäisin. Se oli vanhassa kansanrunoudessamme myöskin ainoa
+sointulaji, jota yleisesti viljeltiin runokielen kaunistuskeinona.
+Ovatpa jotkut arvelleet, että vain se on nykyisenkin runokielemme
+kaunistuskeinoksi sopiva ja sellaiseksi muka hyvin riittäväkin.
+
+Alkusointu on taitavasti käytettynä oiva tyylillinen kaunistuskeino.
+Se voi esiintyä myöskin rytmillisenä keinona, säkeitä ja säejaksoja
+toiselta puolen rajottavana, toiselta puolen yhdistävänä. Näin oli
+alkusointu rytmin palveluksessa muinaisskandinaavialaisessa runoudessa.
+Myöskin nykyisessä taiderunoudessa se joskus esiintyy tällaisenakin.
+Säkeet
+
+    Ikkunat verhoo jo illan
+     harmaja hämy
+
+tuntuvat pelkällä alkusoinnulla rytmillisesti rajotetuilta, säkeiden
+ensimäinen ja viimeinen sana kun alkavat samalla äänteellä.
+Mahdollisesti täten hyvinkin sopisi alkusoinnulla ulkonaisesti merkitä
+esim. loppusoinnuttomain säkeiden loppua.
+
+Säkeitä yhdistävänä alkusointu voi esiintyä monella tavalla, esim.
+siten että säkeessä muutamat sanat, etenkin viimeinen, ja seuraavassa
+joku tai jotkut, varsinkin ensimäinen, ovat alkusoinnussa keskenään,
+tai siten, että yhteenkuuluvat säkeet tai säejakson kaikki tai
+äärimäiset säkeet alkavat samoilla äänteillä. Esimerkkinä säkeistöä
+sitovasta alkusoinnun käytöstä olkoon seuraava säkeistö:
+
+    Kuusten alla seisoo suojus,
+    sepä kattotorvestaan
+    sukkelasti suitsuttavi
+     säkeniä ilmahan.
+
+Kun alkusointu rytmillisen tehtävänsä ohessa vielä hyvin täyttää
+varsinaisemman, tyylillisen tarkotuksensa, kuten edellisessä
+esimerkissä, jossa _äännemaalausta_ (onomatopoieesis) on taitavasti
+käytetty, on vaikutus vielä parempi.
+
+Rytmillisine ja tyylillis-soitannollisine edellytyksineen alkusointu
+hyvinkin pystyy korvaamaan loppusoinnun puutetta useissa tapauksissa,
+etenkin vaihtelevien, poljennollisessa suhteessa täsmällisten
+runomittojen yhteydessä, jolloin loppusointu ei aina ole oikein
+paikallaan.
+
+_Loppusointuakaan_ (l. riimiä) ei toki sentään ole syytä hylätä,
+kuten jotkut vaatisivat, joskin meillä olisi paljon rajotettava ja
+parannettava sen viljelemistä.
+
+Runojalkojen laajuussuhteista jo olen kyllä puhunutkin, mutta en malta
+olla sanomatta niistä pari sanaa tässäkin yhteydessä, koska niiden
+halveksiminen loppusoinnuissamme ilmenee sikäli suuremmassa määrässä
+kuin lyhytalkuiset, varsinkin kaksitavuiset loppusoinnut ovat saaneet
+enemmän jalansijaa. Kun saman runon toisiaan vastaavien säkeistöjen
+vastaavaisina riimeinä on _näen (väen) — aatteet (vaatteet)_, joista
+edellinen laajuudeltaan on vain puoli jälkimäisestä, niin se ei
+suinkaan tunnu hyvältä eikä seurattavalta. Samoin muodot _loisto|si —
+vois_ ja _turun — poistaa — hyvyys — voisi_ ovat laajuudeltaan liian
+kirjavat sopiakseen saman runon vastaavaisiksi riimeiksi. Sisällyskään
+ei tee täyttä vaikutustaan jos muotoa vastaan näinkin paljon
+rikotaan. Täysin hyväksyttävinä ei näet mitenkään voi pitää sellaisia
+vastaavaisuuksia.
+
+Mitä erityisesti tulee sellaisiin loppusointuihin kuin syksyllä — elämä
+— kevättä, joita parhaatkin runoilijamme viljelevät, ne täyttävät perin
+huonosti tehtävänsä. Puhumattakaan nyt siitä, että loppusoinnuiksi
+paraiten sopivat sellaiset sanat ja tavut, joilla muutenkin sana-,
+mieluimmin pääkoron, ja lausekoron vaikutuksesta on huomattavampi asema
+kuin vain pelkän runokoron antama — kuten alku- ja puolisointukin ovat
+tällaisissa kohdissa vaikuttavimmat — puhumattakaan siis tästä ovat
+esimerkkeinä mainittujen kaltaiset loppusoinnut aivan liian lyhyet.
+Niiden keksimiseen uhrattu vaiva on jotenkin tuloksetonta, sillä
+mainittavaa soinnun vaikutusta ne tuskin tekevät. Pääasiallisesti
+juuri foneettisesta syystä lyhyet yksitavuiset riimit olisivat
+hylättävät meillä, kuten ovat enimmäkseen hylätyt muuallakin. Eivät
+siis sellaisetkaan tavut kuin esim. _ma — tuulilla_ eivätkä edes
+vastakohtaiset _se — he_ ole riimeinä oikein hyväksyttävät, vaikka
+ovatkin paremmat kuin ainoastaan runokorolliset tavut.
+
+Yksitavuisia sanoja, jotka paraiten sopisivat yksitavuisiksi
+loppusoinnuiksi, on meillä vähän. Edellä esitetyn mukaan olisi
+näidenkin kuten muiden yksitavuisten loppusointujen käyttöä vielä
+rajotettava. Täten niiden muutenkin pieni määrä yhä pienenee.
+Kun useimmat jäljelle jääneistä harvoista jo väkisinkin tuntuvat
+liian jokapäiväisiltä, pitäisi siis turvautua muihin keinoihin.
+Yksinkertaisin sellainen olisi tietysti jättää miespuoliset riimit
+ilman muuta kokonaan pois. Muutamat näyttävätkin suosivan sitä
+menettelyä, että käytettäisiin vain etupäässä kaksi- ja useampitavuisia
+loppusointuja. Kieltämättä nämä, etenkin kaksitavuiset, ovatkin
+paljoa paremmin kielemme mukaisia kuin yksitavuiset. Kun kuitenkin
+runon luonne usein vaatii säkeen loppuun nousutavun eikä kahta jalkaa
+täyttäviä loppusointujakaan ole näihin kohtiin varsin viljalti
+sovitettavissa, voi tällaiset säkeet useassa tapauksessa vahingotta
+jättää ilman loppusointua, tietysti silloin runon kaikki vastaavaiset
+säkeet. Tämä käy hyvin laatuun esim. milloin alkusointu on otettu
+erikoisesti rytmin palvelukseen. Sellaisissa tapauksissa, jolloin
+kaksi- tai useampitavuinen loppusointu selvästi päättää säejakson,
+säe niinikään riimittömänäkin sopivasti liittyy kokonaisuuteen jakson
+osana, varsinkin lyhyissä perioodeissa. Esim.:
+
+    Ja kolme veljestä voittaja | nyt
+    näki tuotavan tuomitta|vaksi.
+    Oli yksi jäykkä ja ylpe|ä,
+     mut nöyrää, kalpeeta | kaksi.
+
+Täten voisi säästää yksitavuiset loppusoinnut tarpeellisempiin kohtiin,
+etupäässä säejaksojen loppuun, milloin jakso loppuu nousutavulla. Esim.:
+
+    Päivän viime säteet | lankee
+    yli tutun piha|maan.
+    Mieleni on ahdas, | ankee
+     kuin ei ennen konsanaan.
+
+Etenkin jos säejakson muut säkeet ovat loppusoinnuttomat, tuntuu
+yksitavuinen riimi jakson nousutavuilla päättyvissä loppusäkeissä
+tarpeelliselta. Esim.:
+
+    Ma yksin kannelta | soitan,
+    niin hiljaa hiipii | yö;
+    niin kummasti sävel | värjyy,
+     niin oudosti sydän | lyö.
+
+Riimin tehtävä ei ole ainoastaan rytmillinen, säkeitä toisistaan
+erottava ja samalla niitä säejaksoiksi ja säkeistöiksi yhdistävä, vaan
+se on myös ja ennen kaikkia musiikillinen ja tyylillinen. Milloin
+näistä tai muista syistä yksitavuisiakin riimejä pitäisi runsaammin
+käyttää, saattaisi sellaisiksi joskus vastaavaisiin kohtiin hyväksyä
+edellä esitettyjä lyhyitäkin, esim. siten vahvistettuina, että pannaan
+edellisen jalan täyttävä puolisointu niiden eteen. Esim. _aamusi —
+saapuvi_ tuntuu täyteläisemmältä kuin _aamusi — pääsevi_, joskaan
+viimeinen tavu ei edellisessäkään tapauksessa tule sen huomatummaksi.
+
+Loppusointumme eivät tavallisesti ole niin vaikuttavia kuin muiden
+kielten painokkaat riimit, meillä kun kielemme luonnon mukaisesti
+niinä runsaasti viljellään sivukorollisia ja sanakorottomiakin tavuja.
+Mutta väärin olisi, jos tässäkin taas asetettaisiin vieraat kielet
+määräämään, mikä meillä on kelvollista, mikä kokonaan hylättävää.
+Joskin riimimme yleensä ovat heikommat, on kielellämme sen sijaan
+muihin verraten useita sekä rytmillisiä että soitannollisia ja
+tyylillisiä etevämmyyksiä. Näitä kun taitavasti käytellään,
+loppusointumme kernaasti voivat ollakin miedompia kuin muilla. Liian
+heikkoja ja tyhjiä ei tietysti sovi viljellä. Ne ovat yhtä tarpeetonta
+ja paheksittavaa voiteen haaskausta kuin sekin, että asetetaan riimit
+liian etäälle toisistaan tai muuten mutkallisesti, jotteivät kuulijaan
+tee muuta kuin kiusallista vaikutusta.
+
+_Puolisointu_ (assonansi) ei useimpien maiden taiderunoudessa
+ole oikein hyvässä maineessa. Romaanilaisten kansain, etenkin
+espanjalaisten runoudessa se kuitenkin on yleinen kaunistuskeino.
+Saattaisi mahdollisesti tämäkin sointulaji meillä olla armoihin
+otettava. Etenkin sellaiset puolisoinnut, joissa vokaalit ovat
+keskenään täydellisessä soinnussa, näyttäisivät meidän vokaalirikkaan
+kielemme mukaisilta. Yksitavuiset puolisoinnut esimerkiksi voisivat
+joskus olla paikallaan, miespuolisten loppusointujen puutetta
+korvaamassa. Tällöin tulisivat kysymykseen pitkävokaaliset tai
+-diftongiset tavut, sellaiset kuin _saan — maat_, _pois — loi_ j.n.e.
+Nämä sopisivat ehkä paremmin säkeiden loppuun kuin lyhyet loppusoinnut,
+koska pitkät tavut lopussa tuntuvat pontevammilta. Laulussakin säe
+usein loppuu pitkällä sävelellä. Puolisoinnut olisivat vain pantavat
+vastaaviin kohtiinsa runon alusta alkain, jotteivät vaikuttaisi
+puutteellisilta loppusoinnuilta.
+
+
+
+
+Jälkilause.
+
+
+Näin kosketeltuani muutamia runomittakysymyksemme eri kohtia,
+mielestäni nykyään sen tärkeimpiä, olenkin jo sanottavani sanonut
+ja samalla esittänyt joitakin uuden runomittaopin alkeita. Toivon
+vain, että esitykseni onnistuisi kaikista puutteistaan huolimatta tai
+ehkäpä juuri niiden johdosta saada osakseen edes joitakin asiallisia
+arvosteluja, joista kysymyksen myöhempi käsittely hyötyisi.
+
+Virtain Toisveden kansakoululla marraskuussa 1907.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 74653 ***
